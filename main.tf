@@ -9,5 +9,5 @@ instance_type = "t2.micro"
 }
 
 resource "aws_s3_bucket" "example" {
-name = "raham990066"
+bucket = "raham990066"
 }
